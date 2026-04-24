@@ -5,7 +5,7 @@ A simplified Pacman game implemented in Python as an Artificial Intelligence cou
 ## Features
 - Pacman autonomous navigation  
 - Food collection and ghost avoidance  
-- AI-based decision making using:
+- Algorithm that used:
   - A* Search
   - Breadth-First Search (BFS)
 
